@@ -10,7 +10,7 @@ How to run this project
   git clone git@github.com:abbyhilman/GithubSearchCermati.git
 - if it has been clone, run the project in nodejs cmd and select the project that has been cloned
   then type npm install
-- setelah itu ketik react-native run-android
+- react-native run-android
 
 apk application https://drive.google.com/open?id=14zy27UhtldW2haINU3HOOgoddbMwNsmO
 
