@@ -12,6 +12,7 @@ How to run this project
   then type npm install
 - setelah itu ketik react-native run-android
 
-
+apk application https://drive.google.com/open?id=14zy27UhtldW2haINU3HOOgoddbMwNsmO
 
 don't forget to turn on the handphone emulator before running this project
+
